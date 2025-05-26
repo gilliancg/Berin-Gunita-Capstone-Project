@@ -1,6 +1,6 @@
 # Berin-Gunita-Capstone-Project
 
-# Lifestyle and Learning – Predicting Student Performance
+## Lifestyle and Learning – Predicting Student Performance
 
 A capstone project that explores the impact of students' lifestyle habits on academic performance using machine learning.
 
