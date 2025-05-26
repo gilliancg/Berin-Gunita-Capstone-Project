@@ -1,4 +1,4 @@
-# Berin-Gunita-Capstone-Project
+# Berin & Gunita - Capstone Project
 
 ## Lifestyle and Learning – Predicting Student Performance
 
